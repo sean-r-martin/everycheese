@@ -328,3 +328,6 @@ everycheese/media/
 *.sqlite
 *.sqlite3
 
+
+# ignore logfile
+logfile
